@@ -9,6 +9,7 @@ public class Ex1 {
         InputStreamReader reader = new InputStreamReader(stream);
         BufferedReader br = new BufferedReader(reader);
         String l = br.readLine();
+        
 
         String [] input = new String[3];
         int i = -1;        
